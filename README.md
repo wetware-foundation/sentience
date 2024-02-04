@@ -3,6 +3,13 @@ sentience.info
 
 sensience.info
 
+co-sensation of stimuli
+co-sensation
+co-sens of stimuli
+cosense
+falcon 
+
+
 poprzez
 współczucie
 sens
@@ -30,3 +37,8 @@ Filozofia i wrażliwość
 
 W filozofii różni autorzy dokonują różnych rozróżnień między świadomością a odczuwaniem. Według Antonio Damasio odczuwanie to minimalistyczny sposób definiowania świadomości, który w przeciwnym razie powszechnie i zbiorowo opisuje odczuwanie oraz dalsze cechy umysłu i świadomości, takie jak kreatywność, inteligencja, rozumność, samoświadomość i intencjonalność (zdolność do posiadania myśli o czymś). Te dalsze cechy świadomości mogą nie być konieczne dla odczuwania, czyli zdolności odczuwania wrażeń i emocji.
 
+Zmysł to system biologiczny wykorzystywany przez organizm do odczuwania wrażeń, czyli procesu gromadzenia informacji o świecie poprzez wykrywanie bodźców. Chociaż w niektórych kulturach tradycyjnie identyfikowano pięć ludzkich zmysłów (mianowicie wzrok, węch, dotyk, smak i słuch), obecnie rozpoznaje się znacznie więcej.[1] Zmysły wykorzystywane przez organizmy inne niż ludzkie są jeszcze bardziej różnorodne i liczne. Podczas odczuwania narządy zmysłów zbierają różne bodźce (takie jak dźwięk lub zapach) w celu transdukcji, czyli transformacji w formę zrozumiałą dla mózgu. Wrażenia i percepcja mają fundamentalne znaczenie dla niemal każdego aspektu poznania, zachowania i myślenia organizmu.
+
+Pamiętaj, że jest to bardzo prosty przykład. Implementacje w świecie rzeczywistym prawdopodobnie musiałyby stawić czoła znacznie większej złożoności, takiej jak sprawdzanie błędów, parametry konfiguracyjne, większa liczba typów węzłów itp.
+
+Należy pamiętać, że utworzenie łączy DSL jest poważnym przedsięwzięciem i zwykle nie jest konieczne, chyba że problematyczna domena jest bardzo złożona i/lub występuje znaczna ilość powtórzeń w kodzie, które należy wyeliminować w celach konserwacyjnych. Proszę dokładnie rozważyć, czy istniejące języki programowania lub skryptowe mogą już spełniać Twoje wymagania.
